@@ -6,7 +6,8 @@ Welcome to my software engineering adventure! 🚀 In this readme, I'll take you
 
 ## Personal Story and Impact 🌟
 
-My journey from digital marketing to software engineering has been quite a ride. 🎢 Starting out in marketing, I was on the frontlines, seeing how technology affects people every day. It was all about understanding the user: what they want, how they feel, and what makes them click. That's where my love for the human side of tech began. 💖
+My journey from digital marketing to software engineering has been quite a ride. 🎢 Starting out in digital marketing (I was an SEO Writer & Strategist for [The Money Manual](https://www.themoneymanual.com/author/emily-grove)
+, I was on the frontlines, seeing how technology affects people every day. It was all about understanding the user: what they want, how they feel, and what makes them click. That's where my love for the human side of tech began. 💖
 
 Making the jump to software engineering felt like coming home in a strange way. If marketing is telling the story of tech, engineering is writing that story. 📝 And while they seem worlds apart, they both revolve around people. It’s like two sides of the same coin. 💰
 
