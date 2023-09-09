@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Emily Grove's Journey into Software Engineering 👩‍💻
+# My Journey into Software Engineering 👩‍💻
 
 Welcome to my software engineering adventure! 🚀 In this readme, I'll take you through my transition from the world of digital marketing to the realm of coding. Buckle up for a tale of growth, challenges, and a passion for technology with a sprinkle of emojis along the way! 😊
 
