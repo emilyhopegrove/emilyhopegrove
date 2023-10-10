@@ -44,7 +44,7 @@ Though I didn’t initiate the project, I played a pivotal role in bringing it t
 
 This initiative started as a hack week project with the objective to enhance user experience by facilitating content sharing directly from the link-in-bio page and concurrently promoting a safer online environment. To understand further the scope of the project, here is an overview of the project: [Link-in-bio Share Overview](https://paschen.me/share-recording). 📺
 
-Ultimately, it's about making meaningful impacts. The backend is where the magic happens, and I'm eager to be at the forefront, creating solutions that not only work seamlessly but elevate user experiences. Given my journey so far, and my tangible experiences both at Hackbright and Bitly, I believe I'm well-positioned to thrive as a Backend Apprentice Engineer and contribute meaningfully to LinkedIn’s mission. 🌟
+Ultimately, it's about making meaningful impact and creating solutions that not only work seamlessly but elevate user experiences. Given my journey so far, and my tangible experiences both at Hackbright and Bitly, I believe I'm well-positioned to thrive as a Backend, Frontend or Fullstack Engineer and contribute meaningfully to your company's mission. 🌟
 
 
 <!--
