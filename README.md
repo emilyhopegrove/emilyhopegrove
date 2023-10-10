@@ -29,27 +29,22 @@ However, it was my stint as a Backend Engineering Intern at Bitly that truly tra
 
 Looking ahead, my commitment to growth is unwavering. While bootcamps and internships have provided a strong base, mastering coding is a continuous journey. I intend to regularly engage in online courses, attend workshops, and possibly mentor newcomers, passing on what I've learned. But beyond the skills, it's the mindset of lifelong learning that I cherish. My long-term goals include not only becoming a seasoned developer but also a catalyst for change in the tech landscape, championing diversity and user-centricity. 🌍
 
-## The Backend Apprentice Engineer Role 💼
-
-When considering the REACH apprenticeship roles, the Backend Apprentice Engineer role immediately resonated with me. My time at Bitly, focusing on backend development, illuminated the immense potential of this domain. It’s the engine room of any application, and getting it right is paramount. I've always been drawn to the intricacies, the problem-solving nature, and the sheer satisfaction of creating resilient systems that users may never see, but will undoubtedly feel. 🛠️
+## My Engineering Talent - Project Overviews
+### Backend
+My time at Bitly, focusing on backend development, illuminated the immense potential of this domain. It’s the engine room of any application, and getting it right is paramount. I'm interested in the intricacies, the problem-solving nature, and the sheer satisfaction of creating resilient systems that users may never see, but will undoubtedly feel. 🛠️
 
 Projects I've tackled, such as the Microsite Detail Page and Group Link-in-Bio Admin Table, are testaments to my growing proficiency and interest in backend. These projects underscored the importance of efficiency, security, and scalability. Furthermore, courses I took at Hackbright, emphasizing database management and server-side scripting, only solidified this passion. 📊
 
-Ultimately, it's about making meaningful impacts. The backend is where the magic happens, and I'm eager to be at the forefront, creating solutions that not only work seamlessly but elevate user experiences. Given my journey so far, and my tangible experiences both at Hackbright and Bitly, I believe I'm well-positioned to thrive as a Backend Apprentice Engineer and contribute meaningfully to LinkedIn’s mission. 🌟
-
-## My Engineering Talent 💡
-
-During my internship at Bitly, one of the projects that I am exceptionally proud to have worked on is the recent Link-in-bio Share feature, which has resulted in a remarkable 23% surge in non-paid traffic to the link-in-bio landing page post-deployment over a 2 week period! 📈
-
-This initiative started as a hack week project with the objective to enhance user experience by facilitating content sharing directly from the link-in-bio page and concurrently promoting a safer online environment. To understand further the scope of the project, here is an overview of the project: [Link-in-bio Share Overview](https://paschen.me/share-recording). 📺
-
-### Project Overview and My Role 🛠️
+### Frontend
+The interaction with the users and making their journey through whatever funnel work makes my heart sing. I love to know that what I'm working on directly will help them solve their problem! During my internship at Bitly, one of the projects that I am exceptionally proud to have worked on is the recent Link-in-bio Share feature, which has resulted in a remarkable 23% surge in non-paid traffic to the link-in-bio landing page post-deployment over a 2 week period! 📈
 
 The Link-in-bio Share feature introduced a user-friendly share button integrated into live link-in-bios, streamlining content sharing on social platforms and email without having to navigate away from the initial page. This enhancement not only simplified the user experience but also fostered a safer online space by encouraging the reporting of abusive content more effortlessly. 🚀
 
 Though I didn’t initiate the project, I played a pivotal role in bringing it to completion. The project was already in an impressive state thanks to the foundations laid by my colleague Leslie Chan. Leveraging the groundwork, I was able to enhance functionality significantly, steering it over the finish line. One of my main contributions was fine-tuning the feature to make it intuitive and user-centric, ensuring that the share menu was not only functional but also fluid and intuitive to use. 💻
 
-I
+This initiative started as a hack week project with the objective to enhance user experience by facilitating content sharing directly from the link-in-bio page and concurrently promoting a safer online environment. To understand further the scope of the project, here is an overview of the project: [Link-in-bio Share Overview](https://paschen.me/share-recording). 📺
+
+Ultimately, it's about making meaningful impacts. The backend is where the magic happens, and I'm eager to be at the forefront, creating solutions that not only work seamlessly but elevate user experiences. Given my journey so far, and my tangible experiences both at Hackbright and Bitly, I believe I'm well-positioned to thrive as a Backend Apprentice Engineer and contribute meaningfully to LinkedIn’s mission. 🌟
 
 
 <!--
